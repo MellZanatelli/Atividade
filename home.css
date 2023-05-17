@@ -1,0 +1,11 @@
+header{
+    background-image: url(./Imagens/banner.jpeg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1{
+    text-shadow: 0.2rem 0.2rem 0.3rem black;
+    color: white;
+}
