@@ -36,3 +36,12 @@ header div ul li{
 header div{
     width: 100%;
 }
+
+main{
+    margin: 1rem;
+}
+
+main ol{
+    margin: 1rem;
+    list-style-type: upper-roman;
+}
